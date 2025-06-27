@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and creating. Here, you'll find a collection of my projects, contributions, and a bit about me.- 👋 Hi, I’m @Infernus04<br><br>- 🌱 I’m currently focusing on competitive programming, and have a bit of  mastery in Web Development .<br>- 👀 I’m working on various open source projects.<br>- 🔭 I’m interested in Machine Learning, Data Science, and Algorithm Design.<br>- 📫 How to reach me : magardeishan@gmail.com<br>- ⚡ Fun fact: I love travelling and playing games in my free time.</h4>
+<h4 align="left">Building</h4>
 
 ###
 
