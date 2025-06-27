@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Ishan 👋</h1>
+<h1 align="left">You think you know code? Think again.</h1>
 
 ###
 
