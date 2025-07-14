@@ -2,11 +2,6 @@
 
 ###
 
-<h4 align="left">Building</h4>
-
-###
-
-<h2 align="left">Skills</h2>
 
 ###
 
