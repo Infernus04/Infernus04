@@ -1,8 +1,7 @@
 <h1 align="left">You think you know code? Think again.</h1>
 
 ###
-
-
+<h2>Tech Stack</h2>
 ###
 
 <div align="left">
